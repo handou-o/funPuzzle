@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FunPuzzle</string>
+    <string name="loadButton">Load Image</string>
+    <string name="reOrder">Re order Image</string>
+</resources>
